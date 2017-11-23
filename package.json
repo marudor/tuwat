@@ -1,0 +1,8 @@
+{
+  "name": "tuwat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marudor/tuwat.git",
+  "author": "marudor <marudor@marudor.de>",
+  "license": "MIT"
+}
